@@ -1,0 +1,27 @@
+{
+  "name": "desafio_tractian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "body-parser": "^1.16.0",
+    "cloudinary": "^1.9.1",
+    "cluster": "^0.7.7",
+    "compression": "^1.7.1",
+    "cors": "^2.8.4",
+    "method-override": "^2.3.7",
+    "ejs": "^2.5.5",
+    "express": "^4.16.2",
+    "express-load": "^1.1.16",
+    "dotenv": "^4.0.0",
+    "helmet": "^3.5.0",
+    "moment": "^2.18.1",
+    "mongoose": "^5.3.12"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Luiz Paulo Araujo da Silva",
+  "license": "ISC"
+}
